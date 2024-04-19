@@ -1,0 +1,19 @@
+body{
+    height: 100%; 
+}
+ul{
+    list-style: none;
+}
+li a{
+    color: black;
+    font-size: 3vh;
+}
+ul li a ::after{
+    color: black;
+}
+h1{
+    color: black; text-align: center;
+}
+header{
+    background-color: gray;
+}
